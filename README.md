@@ -1,7 +1,7 @@
 # Testing and verification Java project
 Master's project designed to demonstrate key concepts and techniques for testing software systems, model checking and model-based testing.
 For this project, an algorithmic problem has been selected for solution using Java programming. The task can be found at [link to the problem statement](https://www.infoarena.ro/problema/granita). 
-The documentation file contains the resolved requirements based on the Java code provided.
+The [documentation file](https://github.com/AnaOlteanu/TestingVerificationProject/blob/master/documentation_testing%26verification.pdf) contains the resolved requirements based on the Java code provided.
 ## Technologies
 - Java 17
 - JUnit
